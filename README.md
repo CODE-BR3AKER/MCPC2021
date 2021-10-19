@@ -22,14 +22,14 @@ This repo contains proposed solutions to the [Moroccan Collegiate Programming Co
 |Contest - A|-|-|-|-|
 |Contest - B|-|-|-|-|
 |Contest - C|-|-|-|-|
-|Contest - D|-|-|-|-|
+|Contest - D|-|:heavy_check_mark:|-|-|
 |Contest - E|-|-|-|-|
 |Contest - F|-|-|-|-|
 |Contest - G|-|-|-|-|
 |Contest - H|-|-|-|-|
 |Contest - I|-|-|-|-|
 |Contest - J|-|-|-|-|
-|Contest - K|-|-|-|-|
+|Contest - K|-|:heavy_check_mark:|-|-|
 |Contest - L|-|-|-|-|
 
 ## Usage/Examples
@@ -63,6 +63,8 @@ java program #run it
 ## Authors
 
 - [@code-br3aker](https://github.com/CODE-BR3AKER)
+- [@BerqiaMouad](https://github.com/BerqiaMouad)
+- [@oubaydos](https://github.com/oubaydos)
  
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://zarkti.tech)
