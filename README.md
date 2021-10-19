@@ -1,5 +1,5 @@
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
   
 # MCPC 2021 Solutions
 
@@ -39,8 +39,8 @@ This repo contains proposed solutions to the [Moroccan Collegiate Programming Co
 To run solutions you need a C compiler like [GNU GCC](https://gcc.gnu.org/), then you need to compile the `main.c` and execute the output :
 
 ```bash
-  gcc main.c -o main #compile code
-  ./main #run it
+gcc main.c -o main #compile code
+./main #run it
 ```
 
 ### Python:
