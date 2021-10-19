@@ -34,12 +34,30 @@ This repo contains proposed solutions to the [Moroccan Collegiate Programming Co
 
 ## Usage/Examples
 
-### C language:
-To run solutions you need a C compiler like [GNU GCC](https://gcc.gnu.org/), then you need to compile the `main.c` and excute the output :
+### C/C++:
+
+To run solutions you need a C compiler like [GNU GCC](https://gcc.gnu.org/), then you need to compile the `main.c` and execute the output :
 
 ```bash
-  gcc main.c -o main
-  ./main
+  gcc main.c -o main #compile code
+  ./main #run it
+```
+
+### Python:
+
+To run solutions you need to [install python](https://www.python.org/downloads/) (or from pkg manager for linux systems `apt-get install python`), then you can run:
+
+```bash
+python script.py
+```
+
+### Java:
+
+To run solutions you need to [install jdk](https://www.oracle.com/java/technologies/downloads/) (Select Use specified compiler and then select the javac.exe), then you can run:
+
+```bash
+javac program.java #compile code
+java program #run it
 ```
 
 ## Authors
@@ -56,7 +74,3 @@ To run solutions you need a C compiler like [GNU GCC](https://gcc.gnu.org/), the
 ## Contributing
 
 Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
