@@ -19,7 +19,7 @@ This repo contains proposed solutions to the [Moroccan Collegiate Programming Co
 |Practice - A|:heavy_check_mark:|-|-|-|
 |Practice - B|:heavy_check_mark:|-|-|-|
 |Practice - C|-|-|-|-|
-|Contest - A|-|-|-|-|
+|Contest - A|:heavy_check_mark:|-|-|-|
 |Contest - B|-|-|-|-|
 |Contest - C|-|-|-|-|
 |Contest - D|-|:heavy_check_mark:|-|-|
